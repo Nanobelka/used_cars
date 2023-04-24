@@ -1,5 +1,4 @@
-![California_Nanobelka](images/California_Housing.jpg)
-# [Median house value prediction – pySpark pipeline](https://nbviewer.jupyter.org/github/Nanobelka/california-housing/blob/main/california_housing.ipynb)
+# [Price prediction of used cars](https://nbviewer.jupyter.org/github/Nanobelka/used_cars/blob/main/used_cars.ipynb)
 
 **Purpose**
 
