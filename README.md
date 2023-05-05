@@ -1,4 +1,5 @@
 # [Used Cars Price Prediction](https://nbviewer.jupyter.org/github/Nanobelka/used_cars/blob/main/used_cars.ipynb)
+##### Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 
 **Заказчик**  
 Сервис по продаже автомобилей с пробегом.
